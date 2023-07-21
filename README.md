@@ -1,1 +1,1 @@
-Scheme to x86 Compiler written in ocamel and x86 assembly.
+Scheme to x86 Compiler written in ocaml and x86 assembly.
